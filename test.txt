@@ -1,0 +1,24 @@
+53	Wellknown	48859	Registered	UDP	125089	jumbo	NGBR_Best Effort
+3128	Registered	52422	Registered	TCP	12	Small	NGBR_Expedited
+80	Wellknown	38848	Registered	TCP	674	medium	NGBR_Expedited
+48859	Registered	53	Wellknown	UDP	57644	jumbo	NGBR_Best Effort
+443	Wellknown	57300	Registered	TCP	6904	jumbo	NGBR_Assured
+55977	Registered	3128	Registered	TCP	2210	jumbo	NGBR_Best Effort
+54944	Registered	53	Wellknown	UDP	31974	jumbo	NGBR_Assured
+37557	Registered	443	Wellknown	TCP	922	medium	NGBR_Assured
+36116	Registered	443	Wellknown	TCP	1384	medium	NGBR_Best Effort
+46427	Registered	443	Wellknown	TCP	2776	jumbo	NGBR_Assured
+54944	Registered	53	Wellknown	UDP	68640	jumbo	NGBR_Assured
+42278	Registered	443	Wellknown	TCP	0	Small	NGBR_Assured
+53243	Registered	443	Wellknown	TCP	658	medium	NGBR_Assured
+43882	Registered	80	Wellknown	TCP	5962	jumbo	NGBR_Assured
+49963	Registered	443	Wellknown	TCP	86629	jumbo	NGBR_Assured
+54944	Registered	53	Wellknown	UDP	43536	jumbo	NGBR_Assured
+3128	Registered	49819	Registered	TCP	572385	jumbo	NGBR_Expedited
+45263	Registered	443	Wellknown	TCP	0	Small	NGBR_Assured
+56790	Registered	443	Wellknown	TCP	0	Small	NGBR_Assured
+38948	Registered	80	Wellknown	TCP	4376	jumbo	NGBR_Best Effort
+48465	Registered	443	Wellknown	TCP	15496	jumbo	NGBR_Assured
+35059	Registered	80	Wellknown	TCP	332	medium	NGBR_Expedited
+53	Wellknown	48859	Registered	UDP	88097	jumbo	NGBR_Best Effort
+39573	Registered	443	Wellknown	TCP	1500	Large	NGBR_Best Effort
